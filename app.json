@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RestaurantChooser",
-    "slug": "RestaurantChooser",
+    "slug": "restaurantchooser",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b69b4ea5-2494-40f7-918b-11e5ed1ad309"
+      }
+    },
+    "owner": "sdobrimutrom143"
   }
 }
